@@ -1,0 +1,5 @@
+setup.py
+src/gpnet.egg-info/PKG-INFO
+src/gpnet.egg-info/SOURCES.txt
+src/gpnet.egg-info/dependency_links.txt
+src/gpnet.egg-info/top_level.txt
